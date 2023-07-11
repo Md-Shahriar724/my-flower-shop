@@ -43,7 +43,7 @@
 .featured-container{
     max-width: 80%;
     margin: auto;
-    height: 100vh;
+    height: 120vh;
 }
 
 .featured-title{
@@ -94,9 +94,7 @@
     font-size: 15px;
     font-weight: 200;
     margin: 10px 0px 5px 5px;
-    border-bottom: 1px solid black;
 }
-
 .services{
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
@@ -110,4 +108,33 @@
     height: 50px;
     margin-left: 30px;
 }
-
+/* services section ends here */
+.blog-title{
+    font-size: 20px;
+    color: #272727;
+    font-weight: 600;
+}
+.blog-title > span{
+    color: #E55473;
+}
+.blog-des{
+    font-size: 15px;
+    font-weight: 100px;
+    line-height: 15px;
+    margin: 20px 0px;
+    width: 450px;
+}
+.blog-container{
+    text-align: center;
+}
+.account-image{
+    height: 300px;
+    width: 300px;
+}
+.account-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}

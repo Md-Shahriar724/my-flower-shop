@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+/* header start here */
+
+.header-title{
+    font-size: 50px;
+    font-weight: 700;
+    color: #272727;
+    width: 450px;
+}
+.header-description{
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 30px;
+    width: 450px;
+}
+.primary-btn{
+    background-color:  #E55473;
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 200px;
+    border: none;
+    padding: 10px 20px;
+}
+.header-img{
+    height: 400px;
+    width: 350px;
+    margin-top: 50px;
+}
+.header-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 450px;
+    background: rgba(229, 84, 115, 0.10);
+}

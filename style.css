@@ -40,6 +40,11 @@
 }
 
 /* header style added */
+.featured-container{
+    max-width: 80%;
+    margin: auto;
+    height: 100vh;
+}
 
 .featured-title{
     font-size: 25px;
@@ -91,3 +96,18 @@
     margin: 10px 0px 5px 5px;
     border-bottom: 1px solid black;
 }
+
+.services{
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 50px 0px;
+    height: 150px;
+}
+.services-img{
+    height: 50px;
+    margin-left: 30px;
+}
+

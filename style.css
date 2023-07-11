@@ -57,7 +57,8 @@
 }
 .header-description{
     font-size: 15px;
-    font-weight: 300;
+    font-weight: 100;
+    color: rgba(39, 39, 39, 0.60);
     line-height: 20px;
     width: 450px;
     margin: 30px 0px;
@@ -145,6 +146,7 @@
     font-size: 15px;
     font-weight: 200;
     margin: 10px 0px 5px 5px;
+    cursor: pointer;
 }
 .services{
     border-radius: 8px;
@@ -158,6 +160,17 @@
 .services-img{
     height: 50px;
     margin-left: 30px;
+}
+.delivery{
+    margin-left: 70px;
+}
+.flower{
+    margin-left: 70px;
+}
+.services-container > h5{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 12px;
+    font-weight: 300;
 }
 /* services section ends here */
 .blog-title{

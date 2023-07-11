@@ -171,3 +171,31 @@
     width: 80%;
     margin: auto;
 }
+/* social section ends  here */
+/* deals section start here */
+.deals{
+    background-image: url("images/cover.png");
+    background-size: cover;
+    width: 80%;
+    height: 200px;
+    margin: auto;
+    margin-bottom: 50px;
+
+}
+.deals-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.deals-title{
+    text-align: center;
+    margin:20px 0px 5px 0px ;
+    padding-top: 40px;
+}
+.deal-input{
+    padding: 15px 90px 5px 15px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 15px;
+}

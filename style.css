@@ -137,4 +137,37 @@
     align-items: center;
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
+    height: 400px;
+}
+/*  create account section ends here */
+/* socia section start */
+.social-title{
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 15px;
+    margin-top:50px ;
+}
+.social-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 20px;
+}
+.social-blog{
+    text-align: center;
+    width: 500px;
+    margin: auto;
+}
+.social-image{
+    height: 200px;
+    margin: 25px 5px;
+}
+.social-photos{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+    margin: auto;
 }

@@ -37,3 +37,23 @@
     height: 450px;
     background: rgba(229, 84, 115, 0.10);
 }
+
+/* header style added */
+
+.featured-title{
+    font-size: 25px;
+    font-weight: 700;
+    color: #272727;
+}
+.featured-description{
+    font-size: 15px;
+    font-weight: 200;
+    color: rgba(39, 39, 39, 0.60);
+    width: 500px;
+    margin: auto;
+    padding-top:20px ;
+}
+.featured-blog{
+    text-align: center;
+    margin-top: 70px;
+}
